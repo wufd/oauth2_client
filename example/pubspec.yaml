@@ -8,7 +8,8 @@ repository: https://github.com/teranetsrl/oauth2_client
 publish_to: none
 
 environment:
-  sdk: '>=2.1.0 <3.0.0'
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: '>=3.7.0'
 
 dependencies:
   flutter:
